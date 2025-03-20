@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">I am a full-stack JavaScript/TypeScript developer from Singapore specializing in building intelligent web applications. I combine modern web technologies with AI to create engaging user experiences.</h3>
+<h3 align="center">I am a full-stack JavaScript/TypeScript developer from Singapore specializing in building intelligent web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjam11n&label=Profile%20views&color=0e75b6&style=flat" alt="benjam11n" /> </p>
 
 ## 🚀 Current Projects
 
-### Quickie - AI-Powered Perfume Marketplace
+### AI-Powered Perfume Marketplace
 - Developing a full-stack marketplace with personalized perfume recommendations
 - Tech: Next.js, TypeScript, MongoDB, TailwindCSS
 - Features: AI recommendations, user collections, interactive 3D elements
 
-### Three.js Portfolio
+### Portfolio
 - Interactive 3D portfolio showcasing my work
 - Built with Three.js, React, and WebGL
-- Live demo: [threejs portfolio](https://threejs-portfolio-nine-liart.vercel.app/)
-
+- Live demo: [portfolio](https://benjaminwjy.vercel.app/list)
+  
 ### Birds of a Feather - community forum
 - A place for all bird lovers to flock together to dicuss all things birds.
 - Built with React, typescript and postgreSQL.
