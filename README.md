@@ -1,51 +1,65 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">I am a full-stack JavaScript/TypeScript developer from Singapore specializing in building intelligent web applications.</h3>
+<h1 align="center">Hi 👋, I'm Benjamin Wang</h1>
+<h3 align="center">Full-Stack Developer • AI Integrator • Building Intelligent Web Experiences from Singapore 🇸🇬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjam11n&label=Profile%20views&color=0e75b6&style=flat" alt="benjam11n" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=benjam11n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## 🚀 Current Projects
+I craft responsive, full-stack applications that blend clean UIs with intelligent backend logic—often enhanced by AI. Currently a penultimate **B.Comp in Computer Science** student at the National University of Singapore.
 
-### AI-Powered Perfume Marketplace
-- Developing a full-stack marketplace with personalized perfume recommendations
-- Tech: Next.js, TypeScript, MongoDB, TailwindCSS
-- Features: AI recommendations, user collections, interactive 3D elements
+---
 
-### Portfolio
-- Interactive 3D portfolio showcasing my work
-- Built with Three.js, React, and WebGL
-- Live demo: [portfolio](https://benjaminwjy.vercel.app/list)
-  
-### Birds of a Feather - community forum
-- A place for all bird lovers to flock together to dicuss all things birds.
-- Built with React, typescript and postgreSQL.
+## 🔧 Tech Stack
 
-## 💻 Tech Stack
+### 🌐 Frontend
+**React** • **Next.js** • **TypeScript** • **Three.js** • **Tailwind CSS** • **shadcn/ui** • **HTML5/CSS3**
 
-### Frontend
-- React, Next.js, TypeScript
-- Three.js, TailwindCSS
-- HTML5, CSS3, Bootstrap, shadcn/ui, Motion
+### ⚙️ Backend & Infrastructure
+**Node.js** • **PostgreSQL** • **MongoDB** • **Supabase** • **Docker** • **Prisma** • **REST/GraphQL**
 
-### Backend & Database
-- MongoDB, PostgreSQL, MySQL
-- Docker
+### 🤖 AI & Data
+**PyTorch** • **TensorFlow** • **scikit-learn** • **pandas** • **LLMs (Gemini, RAG)** • **Recommendation Systems**
 
-### AI/ML
-- TensorFlow, PyTorch
-- scikit-learn, pandas
-- Recommendation Systems
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+### [**TwinAI**](https://benjaminwjy.vercel.app) — *AI-Powered Digital Twins for Mental Health*  
+**🏆 Deep Learning Week 2025 Finalist (Top 10/700+)**  
+- Built a full-stack therapy platform using **Next.js**, **PyTorch LSTMs**, and **ONNX** for in-browser speech analysis  
+- Achieved **94.9% validation accuracy** on suicide risk detection using **Word2Vec + LSTM**  
+- Integrated **Google Gemini API** with **RAG** for personalized, empathetic AI interactions  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjam11n&show_icons=true&locale=en&layout=compact" alt="benjam11n" /></p>
+### **Enterprise CRM System** — *TechCloud (Full-Stack Internship)*  
+- Architected a unified platform for 20+ tech clients using **Next.js 15**, **TypeScript**, **Prisma**, and **PostgreSQL**  
+- Integrated **Xero accounting** with real-time sync via webhooks → **80% reduction in manual data entry**  
+- Built automated **domain monitoring** for 200+ domains with 99.9% uptime tracking  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjam11n&show_icons=true&locale=en" alt="benjam11n" /></p>
+### **AI-Powered Perfume Marketplace** *(In Progress)*  
+- Personalized scent recommendations using collaborative filtering & NLP  
+- Interactive **3D product previews** with **Three.js**  
+- Stack: **Next.js**, **MongoDB**, **TailwindCSS**, **LangChain**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjam11n&" alt="benjam11n" /></p>
+---
 
-## 📫 Let's Connect!
-- Email: **youcanfindbenjamin@gmail.com**
-- Ask me about: **react, typescript, nextjs, AI integration**
+## 🌍 Open to Opportunities
+- **Remote roles** (full-time or contract) in full-stack development or AI engineering  
+- Passionate about **AI-augmented UX**, **real-time systems**, and **scalable web architecture**  
+- Based in **Singapore**, flexible across time zones
+
+---
+
+## 📬 Let’s Connect!
+- **Email**: [youcanfindbenjamin@gmail.com](mailto:youcanfindbenjamin@gmail.com)  
+- **Portfolio**: [benjaminwjy.vercel.app](https://benjaminwjy.vercel.app)  
+- **LinkedIn**: [linkedin.com/in/benjaminwang-sg](https://www.linkedin.com/in/benjaminwang-sg)  
+- **GitHub**: [github.com/Benjam11n](https://github.com/Benjam11n)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benjam11n&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjam11n&layout=compact&theme=radical" alt="Top Languages" />
+</p>
