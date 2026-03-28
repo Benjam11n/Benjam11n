@@ -1,5 +1,7 @@
 <h1 align="center">Benjamin Wang</h1>
-<p align="center"><strong>AI Developer | Full-Stack Developer</strong></p>
+
+<p align="center"><strong>AI Developer · Full-Stack Developer</strong></p>
+
 <p align="center">
   I build thoughtful products that combine AI, full-stack engineering, and strong UX.
   <br />
@@ -7,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codedbyben.com">Portfolio</a> |
-  <a href="https://github.com/Benjam11n">GitHub</a> |
-  <a href="https://www.linkedin.com/in/benjaminwang-sg/">LinkedIn</a> |
-  <a href="https://t.me/benjaminwjy">Telegram</a> |
+  <a href="https://www.codedbyben.com">Portfolio</a> ·
+  <a href="https://github.com/Benjam11n">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/benjaminwang-sg/">LinkedIn</a> ·
+  <a href="https://t.me/benjaminwjy">Telegram</a> ·
   <a href="mailto:youcanfindbenjamin@gmail.com">Email</a>
 </p>
 
@@ -18,7 +20,7 @@
 
 ## About
 
-I'm a penultimate Computer Science student at NUS who enjoys building intelligent digital products across the stack.
+I'm a penultimate Computer Science student at NUS who enjoys building intelligent digital products across the stack.  
 I'm especially interested in AI-powered experiences, real-time systems, and product design that feels intentional rather than complicated.
 
 I care less about adding complexity for its own sake and more about building software that is clear, practical, and genuinely useful to the people using it.
@@ -27,14 +29,39 @@ I care less about adding complexity for its own sake and more about building sof
 
 ## Tech Stack
 
-**Frontend**  
-React, Next.js, TypeScript, Tailwind CSS, Three.js, Framer Motion, shadcn/ui
-
-**Backend**  
-Node.js, PostgreSQL, MongoDB, Supabase, Docker, REST APIs
-
-**AI / ML**  
-Python, PyTorch, TensorFlow, pandas, NumPy, RAG, Gemini
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Frontend</strong><br /><br />
+      React<br />
+      Next.js<br />
+      TypeScript<br />
+      Tailwind CSS<br />
+      Three.js<br />
+      Framer Motion<br />
+      shadcn/ui
+    </td>
+    <td valign="top" width="33%">
+      <strong>Backend</strong><br /><br />
+      Node.js<br />
+      PostgreSQL<br />
+      MongoDB<br />
+      Supabase<br />
+      Docker<br />
+      REST APIs
+    </td>
+    <td valign="top" width="33%">
+      <strong>AI / ML</strong><br /><br />
+      Python<br />
+      PyTorch<br />
+      TensorFlow<br />
+      pandas<br />
+      NumPy<br />
+      RAG<br />
+      Gemini
+    </td>
+  </tr>
+</table>
 
 ---
 
