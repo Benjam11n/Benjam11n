@@ -4,8 +4,6 @@
 
 <p align="center">
   I build thoughtful products that combine AI, full-stack engineering, and strong UX.
-  <br />
-  My focus is making complex systems feel simple, useful, and human.
 </p>
 
 <p align="center">
@@ -20,10 +18,8 @@
 
 ## About
 
-I'm a penultimate Computer Science student at NUS who enjoys building intelligent digital products across the stack.  
-I'm especially interested in AI-powered experiences, real-time systems, and product design that feels intentional rather than complicated.
-
-I care less about adding complexity for its own sake and more about building software that is clear, practical, and genuinely useful to the people using it.
+I'm a penultimate Computer Science student at NUS who enjoys building fullstack digital products.  
+I'm especially interested in AI-powered experiences.
 
 ---
 
@@ -62,28 +58,6 @@ I care less about adding complexity for its own sake and more about building sof
     </td>
   </tr>
 </table>
-
----
-
-## What I Like Building
-
-- AI-powered products with strong UX
-- Full-stack applications with clean architecture
-- Real-time, interactive web experiences
-- Systems that turn complex workflows into intuitive user journeys
-
----
-
-## Featured Projects
-
-### [Zucchini](https://benjaminwjy.vercel.app/projects/zucchini)
-Local-first desktop habit tracker built for fast daily check-ins, reminder-driven routines, and privacy-friendly on-device storage.
-
-### [TwinAI](https://benjaminwjy.vercel.app/projects/twinAI)
-AI-powered digital twins for therapy, designed to support context-aware and empathetic user interactions.
-
-### [DisKnee](https://benjaminwjy.vercel.app/projects/disknee)
-Computer vision rehabilitation platform with real-time movement tracking and instant feedback for recovery workflows.
 
 ---
 
