@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.codedbyben.com">Portfolio</a> ·
-  <a href="https://github.com/Benjam11n">GitHub</a> ·
   <a href="https://www.linkedin.com/in/benjaminwang-sg/">LinkedIn</a> ·
   <a href="https://t.me/benjaminwjy">Telegram</a> ·
   <a href="mailto:youcanfindbenjamin@gmail.com">Email</a>
