@@ -58,11 +58,3 @@ I'm especially interested in AI-powered experiences.
     </td>
   </tr>
 </table>
-
----
-
-## Current Focus
-
-- Building products that combine AI with polished user experience
-- Exploring RAG, multimodal workflows, and practical ML integrations
-- Shipping projects that feel simple on the surface and solid underneath
