@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a penultimate Computer Science student at NUS who enjoys building fullstack digital products.  
+I'm a final year Computer Science student at NUS who enjoys building fullstack digital products.  
 I'm especially interested in AI-powered experiences.
 
 ---
